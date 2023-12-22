@@ -8,7 +8,7 @@
         "serve": "vite preview"
     },
     "dependencies": {
-        "axios": "^0.24.0",
+        "axios": "^1.6.0",
         "file-saver": "^2.0.5",
         "jszip": "^3.10.0",
         "localforage": "^1.10.0",
